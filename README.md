@@ -1,5 +1,5 @@
 # Decomposition-Table-Reasoning
-Code for EMNLP2021 paper "Exploring Decomposition for Table-based Fact Verification"
+Code for EMNLP 2021 paper "Exploring Decomposition for Table-based Fact Verification"
 
 ## Pseudo-Decomposition Dataset
 Available in ./Data, including: 
